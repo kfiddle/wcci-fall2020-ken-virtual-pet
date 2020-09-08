@@ -2,11 +2,11 @@ public class VirtualPet {
     public String name;
     public int age;
     public  int vcount = 0;
-    private int hunger = 30;
-    private int thirst = 25;
-    private int vigilance = 20;
-    private int fatigue = 10;
-    private int huntDesire = 20;
+    private int hunger;
+    private int thirst;
+    private int vigilance;
+    private int fatigue;
+    private int huntDesire;
 
 
 // getters
